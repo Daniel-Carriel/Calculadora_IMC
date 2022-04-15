@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="calculo_do_imc">Calculo do IMC</string>
+    <string name="resultado">Resultado</string>
+    <string name="descubra_o_seu_ndice_de_massa_corporal">Descubra o seu Índice de Massa Corporal</string>
+    <string name="peso_kg">Peso. (Kg)</string>
+</resources>
